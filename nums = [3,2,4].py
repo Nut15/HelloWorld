@@ -8,3 +8,4 @@ for i in range(0,n):
             if nums[i]+nums[j] == target:
                 print([i,j])
                 break
+print('Hello GitHub')
